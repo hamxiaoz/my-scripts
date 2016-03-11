@@ -1,0 +1,38 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"EncodingHelper",
+		"SideBarEnhancements"
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"CoffeeScript",
+		"CoffeeScriptHaml",
+		"ColorPicker",
+		"EncodingHelper",
+		"ERB Snippets",
+		"GitGutter",
+		"GotoRecent",
+		"Haml",
+		"Handlebars",
+		"Jade",
+		"LESS",
+		"Markdown Extended",
+		"Origami",
+		"Package Control",
+		"Pandoc (Markdown)",
+		"Placeholders",
+		"Ruby Slim",
+		"RubyTest",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"Surround",
+		"Vintage Surround",
+		"VintageEx",
+        "CJSX Syntax"
+	]
+}

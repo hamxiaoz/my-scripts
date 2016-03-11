@@ -1,0 +1,40 @@
+{
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		".svn/",
+		".git/",
+		".hg/",
+		"CVS/",
+		"node_modules/",
+		"bower_components/",
+		".meteor/"
+	],
+	"color_scheme": "Packages/Monokai-Soda-hamxiaoz/Monokai Soda hamxiaoz.tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_indentation": false,
+	"font_face": "consolas",
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"ignored_words":
+	[
+		"admin",
+		"api",
+		"app",
+		"assembla",
+		"pdf",
+		"programmatically",
+		"s/n",
+		"svn"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tabSize": 2,
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
+}
