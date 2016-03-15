@@ -1,0 +1,31 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter-js-standard"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "monokai-slate"
+    ]
+  editor:
+    fontFamily: "Consolas"
+    fontSize: 12
+    invisibles: {}
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "2131b646-86de-e206-a20a-268561355900"
+  "file-types":
+    cmmake: "source.coffee"
+    cmmd: "source.coffee"
+  linter:
+    lintOnFly: false
+  "linter-js-standard":
+    showEslintRules: true
+    style: "semi-standard"
+  metrics:
+    userId: "ff635e3d76cf8e701675c9d42a201544f93e982e"
+  minimap: {}
+  "one-dark-ui": {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
